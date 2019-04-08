@@ -32,7 +32,7 @@ the top of my head.
 Looking at the above list, it's basically all interesting, and I could definitely see demonstrating
 some research on all of the above categories. Having done browsers before and currently researching
 iOS (as part of my day job), I think simply starting with VMs might be an interesting first step. There have
-been many attacks on Virtualbox recently, so there's a good chance I'll be able to find something too.
+been many attacks on VirtualBox recently, so there's a good chance I'll be able to find something too.
 It has real world value and it's open source, so that makes it possible to show how structure aware
 fuzzing works. If that goes well (or doesn't), I'll continue down the list.
 
