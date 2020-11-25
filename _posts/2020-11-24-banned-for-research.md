@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting Banned for Security Research"
-date:   2020-10-24 21:22:00 -0700
+date:   2020-11-24 21:22:00 -0700
 categories: jekyll update
 ---
 *Note that this post does not reflect the opinions of my employer nor my colleagues, and I conducted this research on my own time.*
